@@ -1,0 +1,8 @@
+# Ignore frames folder
+frames/
+
+# Ignore session folder
+session/
+
+# Ignore videos folder
+videos/
